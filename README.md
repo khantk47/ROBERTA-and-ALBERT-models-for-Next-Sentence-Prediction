@@ -1,2 +1,2 @@
-To train the model use the command - python model.py To test wether its predicting the next - python test.py
+To train the model and test it, use the command - python model.py 
 
